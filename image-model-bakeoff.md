@@ -95,3 +95,11 @@ Sheet: `bog_round1.jpg`.
 - **But it overshot into a static pose:** legs splayed wide like a showroom shot, torso upright, chest not over the bars; the bike isn't sunk (mud only at the rims). "Almost stalled" read as parked.
 - #6: giant foreground legs again (camera at shoe level).
 - Next: keep the slow wording but add effort that doesn't imply speed: "chest low over the bars, shoulders hunched forward, forearms tense, straining", "wheels buried to the axles", "legs braced back, heels pushing", and say "not posing".
+
+## Bog round 2 — effort cues, kickstand up, hip-height camera (10/10, Unlimited)
+Sheet: `bog_round2.jpg`.
+- **The best rider pose of the session:** chest low over the bars, shoulders hunched, straining, in 9/10. Candid, not posing. Still slow and quiet.
+- **Bike identity holds** (white, black wheels, Renthal, number board).
+- **Kickstand still visibly down in ~4/10** (#1, 4, 5, 7). The reference photo has it down; text alone doesn't fully override it.
+- **"Short polished streak" became a glowing gold puddle or smear** under the heel in most. The gold heel colour bleeds into the streak. Reword: "a short dull wet scuff in the dark mud, the same colour as the mud".
+- Wheels are sunk only slightly, not to the axles. Often only one leg is down; the other foot rests on a peg.
