@@ -103,3 +103,10 @@ Sheet: `bog_round2.jpg`.
 - **Kickstand still visibly down in ~4/10** (#1, 4, 5, 7). The reference photo has it down; text alone doesn't fully override it.
 - **"Short polished streak" became a glowing gold puddle or smear** under the heel in most. The gold heel colour bleeds into the streak. Reword: "a short dull wet scuff in the dark mud, the same colour as the mud".
 - Wheels are sunk only slightly, not to the axles. Often only one leg is down; the other foot rests on a peg.
+
+## Bog round 3 — scuff reworded, kickstand stressed, feet off pegs (9/10 returned, Unlimited)
+Sheet: `bog_round3.jpg` (tile 10 repeats tile 9).
+- **Gold glow gone**, but the "dull wet scuff" now renders as a pale tan disc under the heel in 7/9. Better to say nothing about the mark under the heel; let the video make it.
+- **Kickstand still down in ~5/9 despite explicit wording.** The reference photo wins over the text. Fix: an edited bike reference with the stand removed (a Seedream edit of the photo, or a new photo).
+- **Both legs down** in #1, 3, 6, 9; chest over the bars in 9/9; wheels deeper in #6–7.
+- #8: an extra loose pair of shoes standing in the mud (two pairs worn plus one spare).
