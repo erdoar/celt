@@ -86,3 +86,12 @@ Sheet: `bike_round4.jpg`.
 - **Legs best so far:** #6 has one leg stretched far back, heel driving into the snow; #3 and #5 have both feet down.
 - Spray is still energetic and fast-looking. The user wants painfully slow, dwindling movement, so strip all speed words.
 - Takeaway: on slopes, direction stays a coin toss once the bike photo is attached → the user's flat-bog idea removes the problem.
+
+## Bog round 1 — flat peat bog, slow wording, bike side ref (10/10, Unlimited)
+Sheet: `bog_round1.jpg`.
+- **Slow: worked.** No spray, no blur, still water, quiet light.
+- **Bike identity: best yet.** White plastics, black wheels, Renthal decals, number board.
+- **Shoes on top of the skin: worked** in most. Heels sit on the surface with small rings or skid ripples, not sunk.
+- **But it overshot into a static pose:** legs splayed wide like a showroom shot, torso upright, chest not over the bars; the bike isn't sunk (mud only at the rims). "Almost stalled" read as parked.
+- #6: giant foreground legs again (camera at shoe level).
+- Next: keep the slow wording but add effort that doesn't imply speed: "chest low over the bars, shoulders hunched forward, forearms tense, straining", "wheels buried to the axles", "legs braced back, heels pushing", and say "not posing".
