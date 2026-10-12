@@ -79,3 +79,10 @@ Sheet: `bike_round3.jpg`.
 - **Direction regressed: ~5/10 climb toward the hut** (#1, 2, 7, 8, 9); the rest face left or toward the camera. Round 2 got 10/10 with a shorter prompt and no bike refs. The bike photos are side-on, facing right, on flat ground, and the longer prompt seems to dilute the direction cue.
 - Chest over the bars: strongest in #3, 6, 9. Feet down pushing: #1, 2, 4, 7.
 - Next: put the direction sentence first, cut the description of the bike's looks (the refs carry it), and drop the rear bike photo.
+
+## Bike round 4 — direction-first prompt, bike side ref only (10/10, Unlimited)
+Sheet: `bike_round4.jpg`.
+- **"Headlight pointing at the hut" backfired:** the model drew a literal beam from the hut or bike, and in 6/10 the bike faces the *camera* (riding down). Only ~4/10 climb (#2, 4, 6, 10). Never mention the headlight.
+- **Legs best so far:** #6 has one leg stretched far back, heel driving into the snow; #3 and #5 have both feet down.
+- Spray is still energetic and fast-looking. The user wants painfully slow, dwindling movement, so strip all speed words.
+- Takeaway: on slopes, direction stays a coin toss once the bike photo is attached → the user's flat-bog idea removes the problem.
